@@ -1,0 +1,12 @@
+flask
+anthropic
+nltk
+numpy
+pandas
+matplotlib
+requests
+urllib3
+pymupdf
+google-search-results
+sentence-transformers
+openpyxl

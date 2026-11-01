@@ -1,0 +1,23 @@
+# Local settings and generated files
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.vs/
+*.user
+*.suo
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.db
+corpus.pkl
+corpus.xlsx
+evaluation_results.png
